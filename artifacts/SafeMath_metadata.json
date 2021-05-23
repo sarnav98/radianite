@@ -1,0 +1,36 @@
+{
+  "compiler": {
+    "version": "0.4.24+commit.e67f0147"
+  },
+  "language": "Solidity",
+  "output": {
+    "abi": [],
+    "devdoc": {
+      "methods": {}
+    },
+    "userdoc": {
+      "methods": {}
+    }
+  },
+  "settings": {
+    "compilationTarget": {
+      "Radianite.sol": "SafeMath"
+    },
+    "evmVersion": "byzantium",
+    "libraries": {},
+    "optimizer": {
+      "enabled": false,
+      "runs": 200
+    },
+    "remappings": []
+  },
+  "sources": {
+    "Radianite.sol": {
+      "keccak256": "0xb6689f1a83672a213e3a96549e729bdfa2c4b6efdeaf130569d7a6f5aa510360",
+      "urls": [
+        "bzzr://de89d34311faa1cbfdca43ddf70bcf1eccd2c9a12082227800096db8a015f9d8"
+      ]
+    }
+  },
+  "version": 1
+}
